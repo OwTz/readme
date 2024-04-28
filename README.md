@@ -15,7 +15,7 @@ Desenvolvedor Back-end . 👨‍💻
 <a href="[[https://instagram.com/ff.owtz](https://www.instagram.com/http.owtz/)](https://www.instagram.com/http.owtz/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ff.owtz" height="30" width="40" /></a>
 </p>
 <p align="left">
-<a href="[[https://instagram.com/ff.owtz](https://www.linkedin.com/in/sergiotechenicalti/)]([https://www.instagram.com/http.owtz/](https://www.linkedin.com/in/sergiotechenicalti/))" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg](https://logospng.org/download/linkedin/logo-linkedin-icon-1536.png)" alt="ff.owtz" height="30" width="40" /></a>
+<a href="[[https://instagram.com/ff.owtz](https://www.linkedin.com/in/sergiotechenicalti/)]([https://www.instagram.com/http.owtz/](https://www.linkedin.com/in/sergiotechenicalti/))" target="blank"><img align="center" src="[[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg](https://logospng.org/download/linkedin/logo-linkedin-icon-1536.png)](https://logospng.org/download/linkedin/logo-linkedin-icon-1536.png)" alt="Linkedin" height="30" width="40" /></a>
 </p>
 
 
